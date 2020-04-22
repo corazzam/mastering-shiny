@@ -22,7 +22,7 @@ This chapter will help you to take the first step in that journey, by showing yo
   easier to debug, because you can experiment with important computational
   part of your app independent of reactivity.
 
-I assume that you're already familiar with the basics of functions[^if-not]. The of this chapter goal is to activate your existing skills, showing you some specific cases where using functions can substantially improve the clarity of your app. We'll focus on functions that extract out code that you've already written. 
+I assume that you're already familiar with the basics of functions[^if-not]. The goal of this chapter is to activate your existing skills, showing you some specific cases where using functions can substantially improve the clarity of your app. We'll focus on functions that extract out code that you've already written. 
 
 [^if-not]: If you're not, and you'd like to learn the basics, you might try reading the [Functions chapter](https://r4ds.had.co.nz/functions.html) of _R for Data Science_.
 
